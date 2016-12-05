@@ -20,7 +20,6 @@
 
 
 ## Editor Member
-```
-- [Liews Wuttipat] (https://www.facebook.com/sweilz)
 
-```
+- [Liews Wuttipat](https://www.facebook.com/sweilz)
+
